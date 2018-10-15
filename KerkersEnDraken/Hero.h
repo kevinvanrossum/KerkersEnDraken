@@ -5,7 +5,7 @@ class Hero
 {
 public:
 	Hero(const char* name);
-	const char * get_name() const;
+	const char* get_name() const;
 
 private:
 	const char* name_ = nullptr;
