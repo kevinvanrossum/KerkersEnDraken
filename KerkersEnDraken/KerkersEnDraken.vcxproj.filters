@@ -45,4 +45,9 @@
       <Filter>Source Files\Models</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="monsters.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
